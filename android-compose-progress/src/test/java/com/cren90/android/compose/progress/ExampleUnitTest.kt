@@ -1,4 +1,4 @@
-package com.cren90.library_template
+package com.cren90.android.compose.progress
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
